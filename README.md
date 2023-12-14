@@ -31,10 +31,16 @@ Para resolver, a função foi removida do projeto: `/*supportActionBar!!.hide()`
 ### Problema 2: Erro com a biblioteca `net.objecthunter:exp4j:0.4.8`
 
 A importação dessa biblioteca não era reconhecida, mesmo após a sincronização do projeto.
+![Captura de tela 2023-12-13 222118](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/a89d44fd-568d-444c-a7f6-720d880ebe0a)
+
+![Captura de tela 2023-12-13 222224](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/558c34fb-e931-41ba-8750-d5282c5b223f)
+![Captura de tela 2023-12-13 222708](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/22bc7d21-f33f-4471-93f1-ed284265742f)
+![Captura de tela 2023-12-13 222323](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/54c45644-61bf-466c-b305-74b9e29ff432)
 
 ### Problema 3: Dificuldades ao Recuperar `@+id` na `activity_main.xml`
 
 Para solucionar, foi necessário utilizar o ViewBinding.
+![Captura de tela 2023-12-13 222037](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/ad9b169c-5296-4f44-8044-80dd12016640)
 
 ## Dicas para o Android Studio
 
