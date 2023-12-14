@@ -2,6 +2,8 @@
 
 Este é um projeto simples que visa desenvolver um aplicativo de calculadora básico em Kotlin.
 
+![Captura de tela 2023-12-14 072529](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/2b4ce997-df66-4a57-9eea-337dc35040e0)
+
 ## Desenvolvimento no Android Studio
 
 Este README destina-se a auxiliar aqueles que enfrentam dificuldades ao criar um aplicativo de calculadora em diferentes versões do Android Studio. O tutorial original foi baseado na versão 4.0, mas este projeto foi adaptado para a versão mais recente, 2023.1.1, do Android Studio.
@@ -26,7 +28,8 @@ Ao compilar com esta função, ocorria um erro específico:
 
 `FATAL EXCEPTION: main Process: com.example.calculadora_kotlin, PID: 32652`
 
-Para resolver, a função foi removida do projeto: `/*supportActionBar!!.hide()`
+Para resolver, a função foi removida do projeto: `/*supportActionBar!!.hide()`, ou deixe como um comentario para testar
+![Captura de tela 2023-12-13 215755](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/d512dab1-8f77-4795-b014-d84d4c47afb9)
 
 ### Problema 2: Erro com a biblioteca `net.objecthunter:exp4j:0.4.8`
 
@@ -46,6 +49,11 @@ so adicionar a blibioteca agora
 
 Para solucionar, foi necessário utilizar o ViewBinding.
 ![Captura de tela 2023-12-13 222037](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/ad9b169c-5296-4f44-8044-80dd12016640)
+
+[Android Studio - Como Usar o ViewBinding (Java e Kotlin) - Guia Absolutamente Completo](https://www.youtube.com/watch?v=RwXJY_k2Kv4&t=300s) -StackMobile
+
+assistir ao tutorial para uma compreensão abrangente do desenvolvimento do ViewBinding.
+
 
 ## Dicas para o Android Studio
 
