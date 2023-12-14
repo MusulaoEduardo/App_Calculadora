@@ -33,14 +33,14 @@ Para resolver, a função foi removida do projeto: `/*supportActionBar!!.hide()`
 A importação dessa biblioteca não era reconhecida, mesmo após a sincronização do projeto.
 ![Captura de tela 2023-12-13 222118](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/a89d44fd-568d-444c-a7f6-720d880ebe0a)
 
-para resolver um importei pelo Project Structure
+para resolver importei pelo Project Structure
 
 
 ![Captura de tela 2023-12-13 222224](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/558c34fb-e931-41ba-8750-d5282c5b223f)
 ![Captura de tela 2023-12-13 222708](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/22bc7d21-f33f-4471-93f1-ed284265742f)
 ![Captura de tela 2023-12-13 222323](https://github.com/MusulaoEduardo/App_Calculadora/assets/127571820/54c45644-61bf-466c-b305-74b9e29ff432)
 
-so adicionar a blibioteca 
+so adicionar a blibioteca agora
 
 ### Problema 3: Dificuldades ao Recuperar `@+id` na `activity_main.xml`
 
